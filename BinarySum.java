@@ -1,3 +1,8 @@
+/*
+This class was created to solve the problem of getting
+the sum of two binaries, in the form of binary system digits.
+*/
+
 package com.anasmannaa;
 
 import java.util.Arrays;
