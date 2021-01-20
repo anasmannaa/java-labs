@@ -1,7 +1,7 @@
-/*
-This class was created to solve the problem of getting
-the sum of two binaries, in the form of binary system digits.
-*/
+/* The sum of two binary digits problem */
+
+/* This class was created to solve the problem of getting
+the sum of two binaries, in the form of binary system digits. */
 
 package com.anasmannaa;
 
