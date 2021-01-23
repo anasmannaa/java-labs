@@ -1,7 +1,13 @@
 /* The sum of two binary digits problem */
 
 /* This class was created to solve the problem of getting
-the sum of two binaries, in the form of binary system digits. */
+the sum of two binaries, in the form of binary system digits.
+Input Data:
+Input the first binary number: 10
+Input the second binary number: 11
+Expected Output: 
+110
+*/
 
 package com.anasmannaa;
 
